@@ -5,8 +5,6 @@
 /.pnp
 .pnp.js
 package-lock.json
-holamundo/node_modules
-.eslintrc
 
 # testing
 /coverage
